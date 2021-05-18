@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+:root{
+    --main-color: #001524;
+    --accent-color: #29bfff;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white !important;
+    transition: 0.4s all ease-in-out !important;
+}
+
+/* a:hover{
+    color: #9ef01a;
+} */
+
+/* BACKGROUND COLORS */
+.bg-main{
+    background-color: var(--main-color);
+}
+
+.bg-accent{
+    background-color: var(--accent-color);
+}
+
+.bg-custom{
+    background-image: url('img/bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-custom-2{
+    background-image: url('/img/bg-2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-opacity{
+    background-color: #001524ce;
+}
+
+/* TEXT COLORS */
+.tc-main{
+    color: var(--main-color);
+}
+
+.tc-accent{
+    color: var(--accent-color);
+}
+
+/* NAVBAR */
+.bg-navbar-custom{
+    background-color: #001524;
+    transition: all .5s ease-in-out;
+}
+
+.changeColor{
+    background-color: #001524b6;
+}
+
+/* IMMAGINE PROFILO */
+.img-thumbnail{
+    padding: 10px !important;
+    background: transparent !important;
+    border-radius: 100% !important;
+    border: 4px solid var(--accent-color);
+}
+
+.m-custom{
+    margin-top: 100px;
+}
+
+/* BUTTONS */
+.btn-custom{
+    background-color: var(--accent-color);
+    color: var(--main-color);
+}
+
+.btn-custom:hover{
+    background-color: #1088bb;
+    color: white !important;
+}
+
+/* COLLEGAMENTI */
+.hover-custom{
+    transition: 0.4s all ease-in-out;
+}
+
+.hover-custom:hover{
+    transform: scale(1.3);
+}

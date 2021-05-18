@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Subito.it",
+        "preview": "./img/subito1.png",
+        "images": ["./img/subito1.png","./img/subito2.png", "./img/subito-3.png", "./img/subito4.png"],
+        "description": "Realizzazione in team di un sito d'annunci stile Subito.it",
+        "linkCode": "https://github.com/Paolo-De-Medio/Subito.it_Sito-Di-Annunci",
+        "linkWebSite": ""
+    },
+
+    {
+        "id": 2,
+        "name": "Project Blue",
+        "preview": "./img/blue1.png",
+        "images": ["./img/blue1.png","./img/blue2.png", "./img/blue3.png", "./img/blue4.png"],
+        "description": "Single Page Application",
+        "linkCode": "https://github.com/Paolo-De-Medio/Project-Blue",
+        "linkWebSite": "https://paolo-de-medio.github.io/Project-Blue/"
+    },
+
+    {
+        "id": 3,
+        "name": "Dental Care",
+        "preview": "./img/dentista1.png",
+        "images": ["./img/dentista1.png","./img/dentista2.png", "./img/dentista3.png", "./img/dentista4.png", "./img/dentista5.png", "./img/dentista6.png"],
+        "description": "Sito per dentisti",
+        "linkCode": "https://github.com/Paolo-De-Medio/DentalCare-dentist-website",
+        "linkWebSite": ""
+    },
+
+    {
+        "id": 4,
+        "name": "Travel.it",
+        "preview": "./img/travel1.png",
+        "images": ["./img/travel1.png","./img/travel2.png", "./img/travel3.png", "./img/travel4.png"],
+        "description": "Blog per chi ama viaggiare",
+        "linkCode": "https://github.com/Paolo-De-Medio/Travel-Blog",
+        "linkWebSite": ""
+    },
+
+    {
+        "id": 5,
+        "name": "Presto.it",
+        "preview": "./img/presto1.png",
+        "images": ["./img/presto1.png","./img/presto2.png", "./img/presto3.png", "./img/presto4.png", "./img/presto5.png"],
+        "description": "Sito d'annunci stile",
+        "linkCode": "https://github.com/Paolo-De-Medio/Presto.it",
+        "linkWebSite": "https://paolo-de-medio.github.io/Presto.it/"
+    }
+]
