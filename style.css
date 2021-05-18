@@ -40,7 +40,7 @@ a{
 }
 
 .bg-custom-2{
-    background-image: url('/img/bg-2.jpeg');
+    background-image: url('img/bg-2.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
