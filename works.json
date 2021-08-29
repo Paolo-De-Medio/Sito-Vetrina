@@ -14,7 +14,7 @@
         "name": "Project Blue",
         "preview": "./img/blue1.png",
         "images": ["./img/blue1.png","./img/blue2.png", "./img/blue3.png", "./img/blue4.png"],
-        "description": "Single Page Application",
+        "description": "Landing Page",
         "linkCode": "https://github.com/Paolo-De-Medio/Project-Blue",
         "linkWebSite": "https://paolo-de-medio.github.io/Project-Blue/"
     },
